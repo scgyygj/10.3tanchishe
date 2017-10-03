@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.sence{
+    width:600px;
+    height: 600px;
+    background: deeppink;
+    margin: 20px auto;
+    border-top: 1px solid deeppink;
+    border-left: 1px solid deeppink;
+}
+.box{
+    width:29px;
+    height:29px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: #fff;
+    float: left;
+
+}
+.hot{
+    /*优先级别最高*/
+    background: skyblue!important;
+}
